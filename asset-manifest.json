@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ReactResort/static/css/main.57887953.chunk.css",
+    "main.js": "/ReactResort/static/js/main.9bdce68d.chunk.js",
+    "main.js.map": "/ReactResort/static/js/main.9bdce68d.chunk.js.map",
+    "runtime~main.js": "/ReactResort/static/js/runtime~main.f861f487.js",
+    "runtime~main.js.map": "/ReactResort/static/js/runtime~main.f861f487.js.map",
+    "static/js/2.da9efca9.chunk.js": "/ReactResort/static/js/2.da9efca9.chunk.js",
+    "static/js/2.da9efca9.chunk.js.map": "/ReactResort/static/js/2.da9efca9.chunk.js.map",
+    "index.html": "/ReactResort/index.html",
+    "precache-manifest.01046784a7965a64b5e9c4a613673f86.js": "/ReactResort/precache-manifest.01046784a7965a64b5e9c4a613673f86.js",
+    "service-worker.js": "/ReactResort/service-worker.js",
+    "static/css/main.57887953.chunk.css.map": "/ReactResort/static/css/main.57887953.chunk.css.map",
+    "static/media/App.css": "/ReactResort/static/media/room-2.052c7681.jpeg",
+    "static/media/loading-arrow.gif": "/ReactResort/static/media/loading-arrow.e9ea7394.gif",
+    "static/media/noimage.jpg": "/ReactResort/static/media/noimage.0927983e.jpg",
+    "static/media/room-1.jpeg": "/ReactResort/static/media/room-1.e928a5c4.jpeg"
+  }
+}
